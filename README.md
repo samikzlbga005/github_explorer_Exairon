@@ -7,6 +7,6 @@ First of all you need to run this command:
 
 After that you can run this following code for start project:
 
-#npm run dev
+# npm run dev
 
 you can go to 'localhost:3000' and see website on there
